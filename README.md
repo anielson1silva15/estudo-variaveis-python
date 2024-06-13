@@ -5,3 +5,5 @@
 ## Alterações repositório github
 
 * Uso do comando restore no git
+
+* comando git push
