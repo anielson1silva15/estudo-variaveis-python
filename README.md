@@ -7,3 +7,5 @@
 * Uso do comando restore no git
 
 * comando git push no terminal vscod
+
+* comando git pull
