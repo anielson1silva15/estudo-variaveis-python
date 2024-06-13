@@ -9,3 +9,5 @@
 * comando git push no terminal vscode
 
 * comando git pull
+
+* comando  fetch
